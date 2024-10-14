@@ -1,5 +1,5 @@
 ## LABORATOR NR. 2. Cereri HTTP și șablonizare în Laravel
-# SCOPUL LUCRARII: Să studiez principiile de bază ale lucrului cu cererile HTTP în Laravel și șablonizarea folosind Blade, pe baza unei aplicații web „To-Do App pentru echipe” — o aplicație pentru gestionarea sarcinilor în cadrul unei echipe.
+### SCOPUL LUCRARII: Să studiez principiile de bază ale lucrului cu cererile HTTP în Laravel și șablonizarea folosind Blade, pe baza unei aplicații web „To-Do App pentru echipe” — o aplicație pentru gestionarea sarcinilor în cadrul unei echipe.
 
 Am create o aplicatie pentru gestionarea sarcinilor "To-Do App", folosind principiile de baza ale lucrului cu cererile HTTP in Laravel si sablonizarea folosind Blade.
 
@@ -19,7 +19,7 @@ Am create o aplicatie pentru gestionarea sarcinilor "To-Do App", folosind princi
 
 4. Ce metode de cereri HTTP sunt folosite pentru a executa operațiunile CRUD?
 
-    `Create`- Foloseste metoda `POST` pentru a crea o noua resursa in server.
-    `Read`- Foloseste metoda `GET` pentru a citi sau accesa o resursa existenta.
-    `Update`- Utilizeaza metodele `PUT` sau `PATCH` pentru a actualiza o resursa existenta.
-    `Delete`- Foloseste metoda `DELETE` pentru a sterge o resursa.
+   -  `Create`- Foloseste metoda `POST` pentru a crea o noua resursa in server.
+   -  `Read`- Foloseste metoda `GET` pentru a citi sau accesa o resursa existenta.
+   -  `Update`- Utilizeaza metodele `PUT` sau `PATCH` pentru a actualiza o resursa existenta.
+   -  `Delete`- Foloseste metoda `DELETE` pentru a sterge o resursa.
